@@ -1,0 +1,249 @@
+{
+  "basics": {
+    "name": "Pablo Martin Gore",
+    "label": "Software Engenieer",
+    "picture": null,
+    "email": "pablo.m.gore@gmail.com",
+    "phone":"(54)911-6577-2312",
+    "website": null,
+    "summary": "Skilled and results-oriented Software Engineer with more than 15 years of experience working in a huge variety of environments, breadth of programs and technologies. By the other hand, I have worked for several clients from different industries such as retail, banking, entertainments, and telecommunications, led development and support teams for those projects.",
+    "location": {
+      "address":null,
+      "postalCode": null,
+      "city": "Ciudad Autonoma de Buenos Aires",
+      "countryCode": "Ar",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pablogore",
+        "url": "https://www.linkedin.com/in/pablogore/"
+      },
+      {
+        "network": "GitHub",
+        "username": "pgoreutn",
+        "url": "https://github.com/pgoreutn"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "company": "Jelper",
+      "position": "Java Technical Lead",
+      "website": "http://jelper.com.ar",
+      "startDate": "2020-06-01",
+      "endDate": null,
+      "summary": "Jelper seeks to simplify access to health, so that more people can have a better quality of medical care, at the lowest possible cost ,and access a network of multiple specialties",
+      "highlights": [
+        "Responsible for the design / implementation of reusable modules.",
+        "Responsible for the design / implementation of reusable modules.",
+        "Building of microservices as many Rest as Grpc using Kotlin and Quarkus",
+        "Task management of the development and design team, such as the construction of the backlog",
+        "Responsible for defining good practices and ensuring their compliance",
+        "Development of payment module integrating Jelper with different gateways such as Decide or pagofacil.",
+        "Technologies:  Kotlin - Golang - grpc - Openshift - keycloak - Apache Kafka - Docker - Microservices - debezium"
+      ]
+    },
+    {
+        "company": "Trustar",
+        "position": "Java|Scala Software Engenieer",
+        "website": "http://trustar.co",
+        "startDate": "2019-06-01",
+        "endDate": "2020-06-01",
+        "summary": "TruSTAR's cloud-native Intelligence Management platform transforms intelligence from third-party providers and historical events for seamless integration and accelerated automation across core detection, orchestration and response tools.",
+        "highlights": [
+          "I have worked across most of our Java (Spring) backend services, using technologies like Kafka and gRPC, and several SQL and NoSQL databases.",
+          "Build Java & Scala common libraries for structured logging library, observability & monitoring, gRPC and Kafka utilities ",
+          "I have spent significant time working with OpenShift, Docker, Gradle, and GitLab CI/CD",
+          "I have focused more heavily on building our Spark (with Databricks) codebase from scratch, and maintaining the core framework as the team rapidly develops new jobs on top of it.",
+          "Technologies: Apache Spark - Scala - Golang - grpc - Redshift - Postgresql- Apache Airflow - Kubernate - Docker - S3 - AWS - DataBricks."         
+        ]
+      },
+      {
+        "company": "Softvision Cognizant",
+        "position": "Java Software Engenieer",
+        "website": "https://www.cognizantsoftvision.com",
+        "startDate": "2019-02-01",
+        "endDate": "2019-06-01",
+        "summary": "Participation as a contractor in Mulesoft Argentina as a Java engenieer",
+        "highlights": [
+          "Creation of pipeline to automate the delivery and ensure the quality of Mulesoft products.",
+          "Maintenance and correction of Mulesoft connectors (Redis - Cassandra - MS 365)",
+          "Technologies: Java 8/11 - MuleSoft framework"         
+        ]
+      },
+      {
+        "company": "RedLink",
+        "position": "Java Software Architect",
+        "website": "https://www.redlink.com.ar",
+        "startDate": "2018-09-01  ",
+        "endDate": "2019-02-01",
+        "sumary":"Red Link is an Argentine company with 30 years of experience developing innovative software solutions and large-scale processing services with international certifications. We provide support to financial entities, government and retailers leading the web and mobile market of software solutions.",
+        "highlights": [
+          "I worked across the entire backend,  created and defined the architecture using Java 8 and Spring Boot 2.",
+          "Define guidelines of the architecture of the company and ensure compliance with them.",
+          "Participation in the development life cycle giving support to the different teams during the sprint.",
+          "Migration svn to git.",
+          "Technologies: Spring Boot - Java 8 - Oracle."
+        ]
+      },
+      
+      {
+        "company": "SpotHero",
+        "position": "Big Data Developer(Python|Scala)",
+        "website": "https://spothero.com/",
+        "startDate": "2018-06-01",
+        "endDate": "2018-09-01",
+        "summary": "SpotHero is North America's leading parking mobility platform and consumer parking marketplace with 20M+ cars parked, the largest network of connected parking facilities, and the most app downloads nationwide.",
+        "highlights": [
+          "I have been working as a Big Data developer, collaborating with the different engineering teams, building ETL, and maintenance the data pipeline.",
+          "Developing ETL with spark , processes and transformations", 
+          "Creation and maintenance of the process pipelines using Apache Airflow , Python and AWS RedShift",
+          "Development of prototypes microservices in Go - GRPC - GraphQL and Kubernate",
+          "Technologies: Apache Spark - Python - Golang - grpc - Redshift - Postgresql- Apache Airflow - Kubernate - Docker - S3 - AWS."
+        ]
+      },
+      {
+        "company": "Accenture - Security Ministry Autonomous City of Buenos Aires",
+        "position": "Big Data Developer",
+        "website": "https://www.accenture.com",
+        "startDate": "2017-09-01",
+        "endDate": "2018-05-01",
+        "summary": "I have worked on the proof of concept (POC) to present the architecture of a Data Pipeline and show some processes and reports.",
+        "highlights": [
+          "Creation of pipelines(Apache Airflow) taking data sources from 911 tables(PostgreSql) and stored in HDFS (Hadoop Horton Works)",
+          "I have Created some Spark processes that read from hdfs(CSV),  transformed, and stored in solr collections.",
+          "Create a dashboard over Hue, reading metrics from solr collections,",
+          "Technologies: Apache Spark - Python - Postgresql- Apache Airflow - Hdfs - Hadoop Hortonworks - hbase - solr - Hue."
+        ]
+      },
+      {
+        "company": "Accenture - Janssen",
+        "position": "Big Data Developer",
+        "website": "https://www.accenture.com",
+        "startDate": "2016-09-01",
+        "endDate": "2017-09-01",
+        "summary": "I have Participated in the architecture design for migration of data integration from legacy custom reporting application to self-service solution on Accenture Insights Platform on AWS.",
+        "highlights": [
+          "Main responsibility was leading the Spark and Data Ingestion Teams and building the Spark transformation with special focus on maintaining a good level of performance.",
+          "Create differents apache Airflow DAGs to perform and execute spark process leaving the information in Amazon Redshift structures.",
+          "Technologies: Apache Spark - PScala , ython - Postgresql- Apache Airflow - S3 - Redshift - Tablau."
+        ]
+      },
+      {
+        "company": "Accenture - ICBC Bank",
+        "position": "Java Architect",
+        "website": "https://www.accenture.com",
+        "startDate": "2016-06-01",
+        "endDate": "2016-09-01",
+        "summary": "Participate in the startup migration of enterprise home banking for ICBC Bank to a new architecture",        
+        "highlights": [
+          "Technologies: Java 8 , Spring , Spring MVC -Apache Camel , Hazelcast , Angular 2 , Webphere 8.0.x"
+        ]
+      },
+      {
+        "company": "Accenture - Santader Bank",
+        "position": "Java Architect",
+        "website": "https://www.accenture.com",
+        "startDate": "2015-09-01",
+        "endDate": "2016-06-01",
+        "summary": "Migration project of the Banco Santader Rio home bank to a new architecture. I had In charge the coordinating the tasks that the architecture team faces , define and guarantee the quality of the deliverables in each sprint by the development teams.",
+        "highlights": [
+           "Technologies: Java 1.6 – Oracle 11.x – WebSphere 8.5 – Microsoft TFS – Sonar - Nexus – CXF JARS/SOAP – Spring Core /Security – Angularjs 1.5"
+        ]
+      },
+      {
+        "company": "Renxo S.A",
+        "position": "Integration Software Developer",
+        "website": "https://renxo.com/",
+        "startDate": "2014-09-01",
+        "endDate": "2015-09-01",
+        "highlights": [
+          "Technologies: tomcat8.x, Jersey,struts,Spring-remoting,ehcache,jgroup,Hibernate, EasyMock, ant, SVN , Oracle"
+        ]
+      },
+      {
+        "company": "BTS",
+        "position": "Scala Software developer",
+        "website": "https://www.bluetrail.software/",
+        "startDate": "2013-11-01",
+        "endDate": "2014-09-01",
+        "highlights": [
+          "Technologies: scala,play-framework,akka,mongo,cassandra,mysql scalikejdbc,Git,kafka,zookeeper"
+        ]
+      },
+      {
+        "company": "BHP Global",
+        "position": "Systems Integration Architect",
+        "website": "https://www.bhp-global.com/",
+        "startDate": "2013-02-01",
+        "endDate": "2013-11-01",
+        "highlights": null
+      }],
+  "volunteer": [
+    {
+      "organization": "Accenture",
+      "position": "Teacher",
+      "website": "http://accenture.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Big Data School - Scala & Apache Spark for new joiners"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnologica Nacional",
+      "area": "Software Engenieer",
+      "studyType": null,
+      "startDate": "1994-03-01",
+      "endDate": null,
+      "gpa":null,
+      "courses": [
+        "Basic SQL",
+        "Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": null,
+      "keywords": [
+        "Java",
+        "Python",
+        "Scala",
+        "Golang",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "Backend Frameworks",
+      "level": null,
+      "keywords": [
+        "Spring Boot",
+        "Microservices",
+        "Quarkus"
+      ]},
+    {
+    "name": "Cloud Platforms",
+    "level": null,
+    "keywords": [
+        "AWS",
+        "Kubernate"
+    ]},
+    {
+    "name": "BigData Frameworks & Platforms",
+    "level": null,
+    "keywords": [
+        "DataBricks",
+        "Apache Spark",
+        "Kafka",
+        "Apache Airflow"
+    ]}],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+      }]  
+}
